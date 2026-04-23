@@ -1,117 +1,127 @@
 # Mobile-Sales-Dashboard
-📱 Mobile Sales Analytics Dashboard
+# 📱 Mobile Sales Analytics Dashboard
 
-📌 1. Project Title / Headline
+## 📌 Project Title
 
-Mobile Sales Analytics Dashboard
+**Mobile Sales Analytics Dashboard**
+
 An interactive Power BI dashboard to analyze mobile sales performance, customer behavior, and transaction trends across different cities, brands, and time periods.
 
-📖 2. Short Description / Purpose
+---
 
-This dashboard provides a comprehensive overview of mobile phone sales data. It helps businesses track total sales, quantity sold, customer ratings, and payment methods while identifying trends across months, cities, and brands.
+## 📖 Description
 
-The dashboard enables data-driven decision-making by visualizing key performance indicators and customer insights in a simple and interactive format.
+This project presents a comprehensive analysis of mobile phone sales data using Power BI. The dashboard helps track key performance indicators such as total sales, quantity sold, transactions, and average sales value.
 
-🛠️ 3. Tech Stack
+It also provides insights into customer ratings, preferred payment methods, and regional sales distribution, enabling data-driven business decisions.
 
-The dashboard was built using the following tools and technologies:
+---
 
-📊 Power BI Desktop – Data visualization and dashboard creation
-🔄 Power Query – Data cleaning and transformation
-🧮 DAX (Data Analysis Expressions) – KPI calculations and measures
-📁 Excel / CSV – Data source
-🌐 GitHub – Project hosting and version control
+## 🛠️ Tech Stack
 
-📂 4. Data Source
+* 📊 Power BI Desktop
+* 🔄 Power Query
+* 🧮 DAX (Data Analysis Expressions)
+* 📁 Excel / CSV Dataset
+* 🌐 Git & GitHub
 
-Source: Mobile Sales Dataset
+---
 
-Format: Excel / CSV
+## 📂 Data Source
 
-Data Includes:
-Mobile Model
-Brand (Apple, Samsung, OnePlus, Vivo, Xiaomi)
-City-wise Sales
-Transaction Details
-Payment Methods (UPI, Cash, Debit Card, Credit Card)
-Customer Ratings
-Sales Date (Month & Day)
+* **Dataset Type:** Mobile Sales Data
+* **Format:** Excel / CSV
 
-📊 5. Features / Highlights
+### Dataset Includes:
 
-🔹 Business Problem
-Companies need a clear system to track mobile sales performance, customer preferences, and payment trends to improve sales strategies and market targeting.
+* Mobile Model
+* Brand (Apple, Samsung, OnePlus, Vivo, Xiaomi)
+* City
+* Sales Amount
+* Quantity
+* Transactions
+* Payment Method (UPI, Cash, Debit Card, Credit Card)
+* Customer Ratings
+* Date (Month & Day)
 
-🎯 Goal of the Dashboard
-Analyze total sales and quantity sold
-Track monthly and daily sales trends
-Understand customer satisfaction (ratings)
-Compare brand and model performance
-Identify preferred payment methods
-Analyze city-wise sales distribution
+---
 
-📈 Key Visuals (Charts Used)
+## 📊 Dashboard Features
 
-KPI Cards
-Total Sales (769M)
-Total Quantity (19K)
-Total Transactions (4K)
-Average Sales Value (40.11K)
+### 🔹 KPIs
 
-Map Visualization
-City-wise sales distribution across India
+* 💰 Total Sales: **769M**
+* 📦 Total Quantity: **19K**
+* 🧾 Total Transactions: **4K**
+* 📉 Average Sales: **40.11K**
 
-Line Chart
-Total Quantity by Month
+---
 
-Bar Chart
-Total Sales by Mobile Model
+### 📈 Visualizations
 
-Funnel Chart
-Customer Ratings Distribution
+* 🌍 **Map:** City-wise Sales Distribution
+* 📅 **Line Chart:** Monthly Sales Quantity Trend
+* 📊 **Bar Chart:** Sales by Mobile Model
+* ⭐ **Funnel Chart:** Customer Ratings
+* 🥧 **Pie Chart:** Payment Method Distribution
+* 📆 **Line Chart:** Sales by Day Name
+* 📋 **Table:** Brand Performance
 
-Pie Chart
-Sales by Payment Method
+---
 
-Line Chart
-Sales by Day Name
+### 🎛️ Filters (Slicers)
 
-Table
-Brand-wise performance (Sales, Quantity, Transactions)
+* Month Selection
+* Mobile Model
+* Payment Method
+* Brand
+* Day Name
 
-Slicers / Filters
-Month Selection
-Mobile Model
-Payment Method
-Brand
-Day Name
+---
 
-📸 6. Dashboard Preview
+## 📸 Dashboard Preview
 
-📷 Dashboard Screenshot:
-(https://github.com/bansiramoliya/Mobile-Sales-Dashboard/blob/main/MobileSales.jpg)
+![Dashboard Preview](./dashboard.png)
 
+> Upload your image in repo and rename it as **dashboard.png**
 
-📌 7. Key Insights
+---
 
-📈 Highest sales observed in July (1700 units)
+## 📌 Key Insights
 
-📉 Lowest sales in February (1451 units)
+* 📈 Highest sales in **July (1700 units)**
+* 📉 Lowest sales in **February (1451 units)**
+* 💳 Most used payment method: **Debit Card (29.44%)**
+* 📱 Top Models: iPhone SE, OnePlus
+* 🌆 High sales in metro cities
+* ⭐ Majority ratings are 4 and 5
 
-💳 Debit Card (29.44%) is the most used payment method
+---
 
-📱 Top-performing models:
-iPhone SE (60M)
-OnePlus (58M)
+## 🚀 Future Improvements
 
-🌆 Major sales contribution from metro cities like Delhi, Mumbai, Bangalore
+* Real-time data integration
+* Predictive analytics (Machine Learning)
+* Customer segmentation
+* Mobile responsive dashboard
+* SQL database integration
 
-⭐ Majority customers give ratings between 4 and 5
+---
 
-🚀 8. Future Improvements
+## 📎 How to Use
 
-Real-time data integration
-Predictive sales analysis using Machine Learning
-Customer segmentation (age, gender, behavior)
-Mobile-friendly dashboard design
-Integration with SQL database
+1. Download the `.pbix` file
+2. Open in Power BI Desktop
+3. Use slicers to filter data
+4. Explore insights
+
+---
+
+## 🙌 Author
+
+**Bansi Ramoliya**
+
+* GitHub: https://github.com/your-username
+* LinkedIn: https://linkedin.com/in/your-profile
+
+---
