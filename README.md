@@ -69,12 +69,12 @@ Mobile Model
 Payment Method
 Brand
 Day Name
+
 📸 6. Dashboard Preview
 
 📷 Dashboard Screenshot:
-(Add your image link here in GitHub like below)
+(https://github.com/bansiramoliya/Mobile-Sales-Dashboard/blob/main/MobileSales.jpg)
 
-![Dashboard Preview](your-image-link-here)
 
 📌 7. Key Insights
 📈 Highest sales observed in July (1700 units)
