@@ -92,16 +92,23 @@ Day Name
 
 
 📌 7. Key Insights
+
 📈 Highest sales observed in July (1700 units)
+
 📉 Lowest sales in February (1451 units)
+
 💳 Debit Card (29.44%) is the most used payment method
+
 📱 Top-performing models:
 iPhone SE (60M)
 OnePlus (58M)
+
 🌆 Major sales contribution from metro cities like Delhi, Mumbai, Bangalore
+
 ⭐ Majority customers give ratings between 4 and 5
 
 🚀 8. Future Improvements
+
 Real-time data integration
 Predictive sales analysis using Machine Learning
 Customer segmentation (age, gender, behavior)
