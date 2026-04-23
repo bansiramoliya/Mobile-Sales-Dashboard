@@ -75,6 +75,7 @@ Day Name
 (Add your image link here in GitHub like below)
 
 ![Dashboard Preview](your-image-link-here)
+
 📌 7. Key Insights
 📈 Highest sales observed in July (1700 units)
 📉 Lowest sales in February (1451 units)
@@ -84,6 +85,7 @@ iPhone SE (60M)
 OnePlus (58M)
 🌆 Major sales contribution from metro cities like Delhi, Mumbai, Bangalore
 ⭐ Majority customers give ratings between 4 and 5
+
 🚀 8. Future Improvements
 Real-time data integration
 Predictive sales analysis using Machine Learning
