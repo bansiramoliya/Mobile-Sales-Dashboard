@@ -22,6 +22,7 @@ The dashboard was built using the following tools and technologies:
 🌐 GitHub – Project hosting and version control
 
 📂 4. Data Source
+
 Source: Mobile Sales Dataset
 Format: Excel / CSV
 Data Includes:
@@ -34,8 +35,8 @@ Customer Ratings
 Sales Date (Month & Day)
 
 📊 5. Features / Highlights
-🔹 Business Problem
 
+🔹 Business Problem
 Companies need a clear system to track mobile sales performance, customer preferences, and payment trends to improve sales strategies and market targeting.
 
 🎯 Goal of the Dashboard
