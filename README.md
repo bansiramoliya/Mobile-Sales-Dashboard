@@ -24,7 +24,9 @@ The dashboard was built using the following tools and technologies:
 📂 4. Data Source
 
 Source: Mobile Sales Dataset
+
 Format: Excel / CSV
+
 Data Includes:
 Mobile Model
 Brand (Apple, Samsung, OnePlus, Vivo, Xiaomi)
@@ -46,26 +48,36 @@ Understand customer satisfaction (ratings)
 Compare brand and model performance
 Identify preferred payment methods
 Analyze city-wise sales distribution
+
 📈 Key Visuals (Charts Used)
+
 KPI Cards
 Total Sales (769M)
 Total Quantity (19K)
 Total Transactions (4K)
 Average Sales Value (40.11K)
+
 Map Visualization
 City-wise sales distribution across India
+
 Line Chart
 Total Quantity by Month
+
 Bar Chart
 Total Sales by Mobile Model
+
 Funnel Chart
 Customer Ratings Distribution
+
 Pie Chart
 Sales by Payment Method
+
 Line Chart
 Sales by Day Name
+
 Table
 Brand-wise performance (Sales, Quantity, Transactions)
+
 Slicers / Filters
 Month Selection
 Mobile Model
@@ -74,6 +86,7 @@ Brand
 Day Name
 
 📸 6. Dashboard Preview
+
 📷 Dashboard Screenshot:
 (https://github.com/bansiramoliya/Mobile-Sales-Dashboard/blob/main/MobileSales.jpg)
 
