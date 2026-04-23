@@ -1,7 +1,7 @@
 # Mobile-Sales-Dashboard
 # 📱 Mobile Sales Analytics Dashboard
 
-## 📌 Project Title
+## 📌 1. Project Title
 
 **Mobile Sales Analytics Dashboard**
 
@@ -9,7 +9,7 @@ An interactive Power BI dashboard to analyze mobile sales performance, customer 
 
 ---
 
-## 📖 Description
+## 📖 2. Description
 
 This project presents a comprehensive analysis of mobile phone sales data using Power BI. The dashboard helps track key performance indicators such as total sales, quantity sold, transactions, and average sales value.
 
@@ -17,7 +17,7 @@ It also provides insights into customer ratings, preferred payment methods, and 
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ 3. Tech Stack
 
 * 📊 Power BI Desktop
 * 🔄 Power Query
@@ -27,7 +27,7 @@ It also provides insights into customer ratings, preferred payment methods, and 
 
 ---
 
-## 📂 Data Source
+## 📂 4. Data Source
 
 * **Dataset Type:** Mobile Sales Data
 * **Format:** Excel / CSV
@@ -46,7 +46,7 @@ It also provides insights into customer ratings, preferred payment methods, and 
 
 ---
 
-## 📊 Dashboard Features
+## 📊 5. Dashboard Features
 
 ### 🔹 KPIs
 
@@ -69,7 +69,7 @@ It also provides insights into customer ratings, preferred payment methods, and 
 
 ---
 
-### 🎛️ Filters (Slicers)
+### 🎛️ 6. Filters (Slicers)
 
 * Month Selection
 * Mobile Model
@@ -79,15 +79,15 @@ It also provides insights into customer ratings, preferred payment methods, and 
 
 ---
 
-## 📸 Dashboard Preview
+## 📸 7. Dashboard Preview
 
-![Dashboard Preview](./dashboard.png)
+![Dashboard Preview](https://github.com/bansiramoliya/Mobile-Sales-Dashboard/blob/main/MobileSales.jpg)
 
-> Upload your image in repo and rename it as **dashboard.png**
+
 
 ---
 
-## 📌 Key Insights
+## 📌 8. Key Insights
 
 * 📈 Highest sales in **July (1700 units)**
 * 📉 Lowest sales in **February (1451 units)**
@@ -98,7 +98,7 @@ It also provides insights into customer ratings, preferred payment methods, and 
 
 ---
 
-## 🚀 Future Improvements
+## 🚀 9. Future Improvements
 
 * Real-time data integration
 * Predictive analytics (Machine Learning)
@@ -108,20 +108,4 @@ It also provides insights into customer ratings, preferred payment methods, and 
 
 ---
 
-## 📎 How to Use
 
-1. Download the `.pbix` file
-2. Open in Power BI Desktop
-3. Use slicers to filter data
-4. Explore insights
-
----
-
-## 🙌 Author
-
-**Bansi Ramoliya**
-
-* GitHub: https://github.com/your-username
-* LinkedIn: https://linkedin.com/in/your-profile
-
----
