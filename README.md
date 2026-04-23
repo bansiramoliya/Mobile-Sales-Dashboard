@@ -20,6 +20,7 @@ The dashboard was built using the following tools and technologies:
 🧮 DAX (Data Analysis Expressions) – KPI calculations and measures
 📁 Excel / CSV – Data source
 🌐 GitHub – Project hosting and version control
+
 📂 4. Data Source
 Source: Mobile Sales Dataset
 Format: Excel / CSV
@@ -31,6 +32,7 @@ Transaction Details
 Payment Methods (UPI, Cash, Debit Card, Credit Card)
 Customer Ratings
 Sales Date (Month & Day)
+
 📊 5. Features / Highlights
 🔹 Business Problem
 
@@ -71,7 +73,6 @@ Brand
 Day Name
 
 📸 6. Dashboard Preview
-
 📷 Dashboard Screenshot:
 (https://github.com/bansiramoliya/Mobile-Sales-Dashboard/blob/main/MobileSales.jpg)
 
